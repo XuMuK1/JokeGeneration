@@ -1,0 +1,1 @@
+python generate.py --cuda --data ./data/shortjokes_full/ --checkpoint LSTMbp20_lay2_nhid500_voc62_largeem500.mod --dictionary currentDict.pkl --temperature 1.2 --outf ./oneGenTexts/gen12.txt
